@@ -14,7 +14,7 @@ const About = () => {
         <MainTitle text='обо мне' />
       </div>
       <div className={`sub-container ${styles.about__sub_container}`}>
-        <img className={styles.about__img} src='/img/about.png' alt='avatar' />
+        <img className={styles.about__img} src='/img/my-photo.jpg' alt='avatar' />
         <div className={styles.about__inner}>
           <h3 className={styles.about__title}>
             Александр Богданов
