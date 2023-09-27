@@ -9,11 +9,10 @@ export const portfolioItems1 = [
   },
 ]
 export const portfolioItems2 = [
-  // fix
   {
     id: 2,
     img: "/img/todo_list.png",
-    link: "https://todolist-project-2023-toolkit.vercel.app",
+    link: "https://alex666000.github.io/todolist-deploy",
     title: "Список дел",
     //
   },
