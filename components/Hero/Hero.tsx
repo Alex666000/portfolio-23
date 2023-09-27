@@ -53,7 +53,7 @@ const Hero = () => {
       <div className='sub-container'>
         <div className={styles.hero__inner}>
           <h1 className={styles.hero__title} ref={heroTitle}>
-            Frontend developer
+            Front-end developer
           </h1>
           <div className={styles.hero__description}>
             <p>
