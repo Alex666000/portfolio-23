@@ -33,7 +33,7 @@ const Portfolio = () => {
 
   const portfolioTabControls = [
     { id: 1, title: "Production project", isActive: portfolioTab1, handler: handleShowPortfolioItems1 },
-    { id: 2, title: "Todolist", isActive: portfolioTab2, handler: handleShowPortfolioItems2 },
+    { id: 2, title: "Task manager", isActive: portfolioTab2, handler: handleShowPortfolioItems2 },
     { id: 3, title: "Social network", isActive: portfolioTab3, handler: handleShowPortfolioItems3 },
   ]
 
