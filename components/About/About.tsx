@@ -6,6 +6,7 @@ import styles from "../../styles/about.module.scss"
 import { useMediaQuery } from "../../hooks"
 
 const About = () => {
+  // todo
   const isMobile1080 = useMediaQuery(1080)
 
   return (
